@@ -15,13 +15,13 @@ To run the application locally, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd express-product-api
+    cd Top Product HTTP Microservice
     ```
 
 3. Install the dependencies:
 
     ```bash
-    npm install
+    npm install axios express
     ```
 
 4. Start the server:
